@@ -1,0 +1,5 @@
+Apple,iPhone 7,4.7",64GB,300
+Samsung,Galaxy Note 10,6.3",256GB,800
+Motorola,Razr,5.7",64GB,900
+Nokia,Lumia 800,3.7",16GB,50
+HTC,U11,5.5",32GB,360

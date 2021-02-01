@@ -7,6 +7,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ComboBox x:Name="CbPhones"
+                  Margin="30"
+                  FontSize="30"
+                  HorizontalContentAlignment="Center"
+                  VerticalContentAlignment="Center"
+                  />
+        <Button x:Name="BtnDetails"
+                FontSize="30"
+                Content="Show Phone Details"
+                Grid.Row="1"
+                Margin="30"
+                Click="BtnDetails_Click"/>
     </Grid>
 </Window>

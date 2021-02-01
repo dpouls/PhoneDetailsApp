@@ -1,0 +1,17 @@
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\bin\Debug\PhoneDetailsApp.exe.config
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\bin\Debug\PhoneDetailsApp.exe
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\bin\Debug\PhoneDetailsApp.pdb
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailsApp.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\MainWindow.g.cs
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailWindow.g.cs
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\App.g.cs
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailsApp_MarkupCompile.cache
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailsApp_MarkupCompile.lref
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\MainWindow.baml
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailWindow.baml
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailsApp.g.resources
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailsApp.Properties.Resources.resources
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailsApp.csproj.GenerateResource.cache
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailsApp.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailsApp.exe
+C:\Users\dalli\source\repos\PhoneDetailsApp\PhoneDetailsApp\obj\Debug\PhoneDetailsApp.pdb

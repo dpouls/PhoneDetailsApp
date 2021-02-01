@@ -19,9 +19,20 @@ namespace PhoneDetailsApp
     /// </summary>
     public partial class PhoneDetailWindow : Window
     {
-        public PhoneDetailWindow()
+        public PhoneDetailWindow(Phone currentPhone)
         {
             InitializeComponent();
+            //assign labels the property balues 
+            LblDisplay.Content = currentPhone.Display;
+            LblMake.Content = currentPhone.Make;
+            LblModel.Content = currentPhone.Model;
+            LblPrice.Content = currentPhone.Price.ToString("c");
+            LblStorage.Content = currentPhone.Storage;
+        }
+
+        private void BtnClose_Click(object sender, RoutedEventArgs e)
+        {
+            Close();
         }
     }
 }

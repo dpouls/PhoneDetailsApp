@@ -7,6 +7,81 @@
         mc:Ignorable="d"
         Title="PhoneDetailWindow" Height="450" Width="800">
     <Grid>
-        
+        <GroupBox Margin="30,30,30,100">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Label Content="Make: "
+                       HorizontalAlignment="Right"
+                       VerticalAlignment="Center"
+                       FontSize="30"/>
+                <Label Content="Model: "
+                       HorizontalAlignment="Right"
+                       VerticalAlignment="Center"
+                       FontSize="30"
+                       Grid.Row="1"/>
+                <Label Content="Display: "
+                       HorizontalAlignment="Right"
+                       VerticalAlignment="Center"
+                       FontSize="30"
+                       Grid.Row="2"/>
+                <Label Content="Storage: "
+                       HorizontalAlignment="Right"
+                       VerticalAlignment="Center"
+                       FontSize="30"
+                       Grid.Row="3"/>
+                <Label Content="Price: "
+                       HorizontalAlignment="Right"
+                       VerticalAlignment="Center"
+                       FontSize="30"
+                       Grid.Row="4"/>
+                <Label x:Name="LblMake" Content="Results..."
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center"
+                       Grid.Column="1"
+                       Grid.Row="0"
+                       FontSize="30"/>
+                <Label x:Name="LblModel" Content="Results..."
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center"
+                       Grid.Column="1"
+                       Grid.Row="1"
+                       FontSize="30"/>
+                <Label x:Name="LblDisplay" Content="Results..."
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center"
+                       Grid.Column="1"
+                       Grid.Row="2"
+                       FontSize="30"/>
+                <Label x:Name="LblStorage" Content="Results..."
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center"
+                       Grid.Column="1"
+                       Grid.Row="3"
+                       FontSize="30"/>
+                <Label x:Name="LblPrice" Content="Results..."
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Center"
+                       Grid.Column="1"
+                       Grid.Row="4"
+                       FontSize="30"/>
+                
+            </Grid>
+        </GroupBox>
+        <Button Content="Close"
+                VerticalAlignment="Bottom"
+                Margin="30"
+                Padding="0,20"
+                x:Name="BtnClose"
+                Click="BtnClose_Click"/>
     </Grid>
 </Window>
